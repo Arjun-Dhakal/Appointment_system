@@ -100,9 +100,8 @@ public/
 
 The homepage uses:
 
-```tsx
-backgroundImage: "url('/images/salon-hero.jpg')"
-```
+
+
 
 ---
 
@@ -304,14 +303,6 @@ The project can be extended with:
 * Appointment availability checking
 * Admin appointment management
 * Appointment status
-* Email confirmation
-* Customer notifications
-* Authentication
-* Service management
-* Staff management
-* Online payment
-* Responsive mobile navigation
-
 ---
 
 # Author
